@@ -13,7 +13,7 @@
 作为 Agent Skill 安装（Claude Code / Cursor / Codex / WorkBuddy 等）：
 
 ```bash
-npx skills add <owner>/msstore-offline
+npx skills add Bluemohb/msstore-offline
 ```
 
 或手动复制：把 `msstore-offline/` 整个目录放到你的 skills 目录下
